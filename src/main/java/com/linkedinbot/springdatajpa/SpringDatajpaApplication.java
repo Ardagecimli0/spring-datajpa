@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringDatajpaApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringDatajpaApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringDatajpaApplication.class, args);
+    }
 
 }
